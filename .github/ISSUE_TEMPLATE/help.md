@@ -16,6 +16,7 @@ assignees:
 
 2. What DNS service provider(s) are you using?
 
+    - [ ] Azure
     - [x] Cloudflare
     - [ ] DDNSS.de
     - [ ] DonDominio
